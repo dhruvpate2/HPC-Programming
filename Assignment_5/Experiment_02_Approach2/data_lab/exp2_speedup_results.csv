@@ -1,0 +1,13 @@
+System,Approach,Config,Particles,Threads,Overall_Time
+Lab,Immediate,1,14000000,2,1.059472
+Lab,Immediate,1,14000000,4,0.881291
+Lab,Immediate,1,14000000,8,0.903805
+Lab,Immediate,1,14000000,16,0.869816
+Lab,Immediate,2,14000000,2,1.0537
+Lab,Immediate,2,14000000,4,0.874723
+Lab,Immediate,2,14000000,8,0.864927
+Lab,Immediate,2,14000000,16,0.876502
+Lab,Immediate,3,14000000,2,1.461636
+Lab,Immediate,3,14000000,4,1.270627
+Lab,Immediate,3,14000000,8,1.273352
+Lab,Immediate,3,14000000,16,1.252735
